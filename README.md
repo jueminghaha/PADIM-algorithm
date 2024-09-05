@@ -3,6 +3,14 @@
 
 I have uploaded all the codes related to data processing to the `finally.ipynb` file. All the codes do not require additional libraries and can be run directly.
 
+I have uploaded all the codes related to data processing to the `finally.ipynb` file. All the codes do not require additional libraries and can be run directly in Jupyter.
+
+## Installation of Libraries
+
+If there are any libraries that are not installed, you can use the following pip command to install them:
+
+```bash
+pip install <library_name>
 ## Overview of the Codes
 
 We have a total of 6 codes, namely:
